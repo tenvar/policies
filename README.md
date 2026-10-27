@@ -9,6 +9,7 @@ must not replace documents for another game. Existing policy URLs remain valid.
 | --- | --- |
 | Gem Pop | `/gempop/privacy.html` |
 | Tower Blocks: World Builder | `/towerblocks/`, `/towerblocks/privacy.html` |
+| Flappy Plane: Sky Hangar | `/flappyplane/`, `/flappyplane/privacy.html`, `/flappyplane/privacy-ads.html` (with ads) |
 
 To add a game:
 
